@@ -1,7 +1,6 @@
 # Motor Vehicle Collisions Dashboard for New York City
 
-This repository contains code for a Streamlit application that serves as a dashboard for analyzing motor vehicle collisions in New York City. The application utilizes several data visualization libraries such as Streamlit, Pandas, NumPy, Pydeck, and Plotly Express.
-
+This repository contains code for a Streamlit application that serves as a dashboard for analyzing motor vehicle collisions in New York City. 
 ## Installation
 
 To run the application locally, follow these steps:
