@@ -6,9 +6,11 @@ This repository contains code for a Streamlit application that serves as a dashb
 
 To run the application locally, follow these steps:
 
-1. Clone this repository to your local machine.                                                                                                                                                                         ```bash
+1. Clone this repository to your local machine.
+                                                                                                                                                                          
+    ```bash
     git clone https://github.com/Antisource/MVC.git
-   ```
+    ```
 2. Install the required dependencies using pip:
 
     ```bash
