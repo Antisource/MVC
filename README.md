@@ -1,4 +1,4 @@
-# Motor Vehicle Collisions Dashboard
+# Motor Vehicle Collisions Dashboard for New York City
 
 This repository contains code for a Streamlit application that serves as a dashboard for analyzing motor vehicle collisions in New York City. The application utilizes several data visualization libraries such as Streamlit, Pandas, NumPy, Pydeck, and Plotly Express.
 
@@ -6,7 +6,9 @@ This repository contains code for a Streamlit application that serves as a dashb
 
 To run the application locally, follow these steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine.                                                                                                                                                                         ```bash
+    git clone https://github.com/Antisource/MVC.git
+   ```
 2. Install the required dependencies using pip:
 
     ```bash
